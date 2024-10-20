@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mariana-Ribeiroo
-- 👀 I’m interested in Front-end
+- 👀 I’m interested in Front-end and AI
 - 🌱 I’m currently learning HTML, CSS and JS
 - 📚 I’m studying Computer Science in PUC-RIO
 - 
